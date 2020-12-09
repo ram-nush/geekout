@@ -21,11 +21,9 @@ function Home() {
       <Navbar />
       <section>
         <div className="container">
-          <h1>Welcome to Supplies</h1>
+          <h1>Welcome to Su!examplehhhh!4a3serxcfgs</h1>
           <p>
-            Help contribute to the community by donating any supplies that you
-            can spare to those who need them the most! (especially with what's
-            going on in the world today)
+            Yo, yuotfecdzx
           </p>
         </div>
       </section>
@@ -35,4 +33,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Example;
