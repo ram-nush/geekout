@@ -1,7 +1,7 @@
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import Donations from "../components/Donations";
-import Masthead from "../components/Masthead";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import Donations from "../../components/Donations";
+import Masthead from "../../components/Masthead";
 
 /**
  *  @description
